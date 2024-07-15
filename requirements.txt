@@ -6,11 +6,11 @@ databricks-cli
 msrest~=0.7.1
 python_dateutil >= 2.5.3
 pyyaml==6.0
-requests==2.29.0
+requests==2.32.2
 six >= 1.10
 urllib3 >= 1.15.1
 wget~=3.2
 pygments
 pytest~=7.3.1
 typing~=3.7.4.3
-setuptools~=67.7.2
+setuptools~=70.3.0
